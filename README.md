@@ -1,7 +1,5 @@
 # deeplearning---Challenge
 
-# deep-learning-challenge
-
 # Alphabet Soup Deep Learning Report
 
 ## Overview of Analysis
